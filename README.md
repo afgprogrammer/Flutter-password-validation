@@ -1,16 +1,37 @@
-# day29
+## Flutter Password Validation - Day 29
 
-A new Flutter project.
+```dart
+class Afgprogrammer extends Flutter100DaysOfCode {
+  video() {
+    return {
+      "title": "Flutter Password Validation",
+      "description": "Let's see how simple you can validate a password in Flutter.",
+      "day": 29,
+      "videoLink": "https://youtu.be/Uahlo90ER18"
+    }
+  }
+}
+```
+### [Watch it on Youtube](https://youtu.be/Uahlo90ER18)
 
-## Getting Started
+## Previous Designs
+[Checkout my Youtube channel](https://youtube.com/afgprogrammer)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Development Setup
+Clone the repository and run the following commands:
+```
+flutter pub get
+flutter run
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Screenshot
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="assets/screenshots/password-validation.png" />
+
+## Links
+
+* [Website](https://afgprogrammer.com)
+* [Youtube channel](https://youtube.com/afgprogrammer)
+* [Twitter](https://twitter.com/afgprogrammer)
+* [Instagram](https://instagram.com/afgprogrammer)
